@@ -1,5 +1,3 @@
-# Resume-Screening-tool
-
 A smart web app built using *Streamlit* and *Python, capable of reading PDF resumes, comparing them to a job description using NLP, and ranking the candidates based on relevance. It can even **send emails to top candidates* and *export CSV results*.
 
 ---
