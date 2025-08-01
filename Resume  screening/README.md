@@ -52,9 +52,9 @@ streamlit run app.py
 | 
   ![Streamlit Web app](Screens/App.png)
   ### Streamlit Web app
-  ![Matching keywords](screens/Matching_keywords.png)
+  ![Matching keywords](Screens/Matching_keywords.png)
   ###  Matching keywords
-  ![Ranking candidate](screens/csv.png)
+  ![Ranking candidate](Screens/csv.png)
   ### Ranking candidate
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raju-kumar-0227872b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
